@@ -11,7 +11,6 @@ main{
     display: flex;
     flex-direction: column;
     justify-self: center;
-    height: ;
     width: 1500px;
     gap: 20px;
 }
@@ -43,7 +42,7 @@ p{
     justify-self: center;
     width: 80%;
 }
-.aboutme{
+#aboutme{
     margin-top: 10px;
 }
 section{
@@ -62,7 +61,7 @@ a{
     text-decoration: none;
     color: inherit;
 }
-.myproject{
+#myproject{
     margin-top: 20px;
 }
 .project-line{
@@ -83,7 +82,7 @@ a{
     border-radius: 10px;
 }
 
-.footer{
+#footer{
     display: flexbox;
     padding: 10px 0;
     min-height: 100%;
@@ -94,8 +93,4 @@ a{
 }
 .img-con{
     height: 20px;
-}
-
-hr{
-    
 }
