@@ -83,9 +83,9 @@ a{
     border-radius: 10px;
 }
 
-footer{
+.footer{
     margin-top: 1%;
-    margin-left: 6%;
+
     width: 90%;
 }
 .contact{
@@ -96,4 +96,9 @@ footer{
 }
 .img-con{
     height: 20px;
+}
+
+.info{
+    display: flex;
+    gap: 0.5rem;
 }
