@@ -11,8 +11,9 @@ main{
     display: flex;
     flex-direction: column;
     justify-self: center;
-    width: 80%;
+    width: 88%;
     gap: 20px;
+
 }
 h1,h2,h3,h4{
     color: #FC7614;
@@ -78,14 +79,14 @@ a{
     text-align: center;
 }
 .pimage{
-    height: 250px;
+    height: 15rem;
     border-radius: 10px;
 }
 
-#footer{
-    display: flexbox;
-    padding: 10px 0;
-    min-height: 100%;
+footer{
+    margin-top: 1%;
+    margin-left: 6%;
+    width: 90%;
 }
 .contact{
     display: flex;
