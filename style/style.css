@@ -91,6 +91,8 @@ footer{
 .contact{
     display: flex;
     gap: 5px;
+    display: flex;
+    flex-wrap: wrap;
 }
 .img-con{
     height: 20px;
