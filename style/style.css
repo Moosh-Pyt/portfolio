@@ -50,13 +50,26 @@ section{
     display: flex;
     gap: 20px;
 }
-ul{
+.lang, ul{
     color: white;
     display: flex;
     gap: 10px;
     justify-content: right;
     list-style: none;
     margin: 20px;
+}
+.bandeiras{
+    display: flex;
+    align-items: center;
+    margin-left: -2vh;
+    gap: 1vh;
+}
+
+.flag{
+    height: 2vh;
+    display: flex;
+    justify-self: center;
+    align-items: center;
 }
 a{
     text-decoration: none;
