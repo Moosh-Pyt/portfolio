@@ -19,6 +19,7 @@ h1,h2,h3,h4{
     color: #FC7614;
     margin-left: 10px;
 }
+
 h1{
 
     font-weight: 900;
@@ -53,10 +54,10 @@ section{
 .lang, ul{
     color: white;
     display: flex;
-    gap: 10px;
+    gap: 20px;
     justify-content: right;
     list-style: none;
-    margin: 20px;
+
 }
 .bandeiras{
     display: flex;
