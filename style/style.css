@@ -91,9 +91,11 @@ a{
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+
 }
 .pimage{
     height: 15rem;
+    width: 250px;
     border-radius: 10px;
 }
 
