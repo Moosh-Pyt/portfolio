@@ -95,7 +95,7 @@ a{
 }
 .pimage{
     height: 15rem;
-    width: 250px;
+    width: 300px;
     border-radius: 10px;
 }
 
@@ -121,6 +121,6 @@ a{
 @media (max-width: 781px){
     .pimage{
         height: 10rem;
-        width: 200px;
+        width: 150px;
     }
 }
